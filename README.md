@@ -42,7 +42,7 @@ Implemented authentication and encryption for real-time medical data access.
 
 ## 📜 Certifications
 
-- 📘 [IBM Data Science Professional Certificate](#) – Coursera – *Jan 2025*  
+- 📘 IBM Data Science Professional Certificate – Coursera – *Jan 2025*  
 - 💻 Java Full Stack Developer – JSpiders – *Nov 2022*  
 - 📚 Multiple Cisco and Coursera certifications
 
